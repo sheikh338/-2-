@@ -1,0 +1,30 @@
+.w1{
+    padding: 15px;
+}
+
+.w2{
+    color: blue;
+    background-color: blue;
+}
+.w2 p {
+    color: cornsilk;
+}
+td {
+    background-color: darkgray;
+}
+
+.w3{
+    color: brown;
+}
+
+.h1{
+    color: brown;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.w4{
+    color: crimson;
+}
